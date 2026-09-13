@@ -1,0 +1,5 @@
+Tourists.txt
+index
+*.dSYM/
+.vscode/
+.DS_Store
